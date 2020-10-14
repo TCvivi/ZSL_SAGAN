@@ -6,7 +6,7 @@ You can download the processed image features data of [SUN](https://drive.google
 Put the uncompressed data "res101.mat" to the folder "SUN"
 
 # Reproduce Results
-<python3 SAZSL_ZSL_SUN.py>
+'<python3 SAZSL_ZSL_SUN.py>'
   
 # Result
 ![result](https://drive.google.com/file/d/1pXfpNbOdSBAEBBcepV4UdwS6WD6xp6wY/view?usp=sharing)
